@@ -1,1 +1,1 @@
-# t5.py
+print('hi')
